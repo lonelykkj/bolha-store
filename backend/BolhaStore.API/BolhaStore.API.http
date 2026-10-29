@@ -1,0 +1,6 @@
+@BolhaStore.API_HostAddress = http://localhost:5090
+
+GET {{BolhaStore.API_HostAddress}}/health/
+Accept: application/json
+
+###
